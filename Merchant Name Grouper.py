@@ -1,7 +1,6 @@
 '''
 Merchant Name Clustermaker, Namer and Validator
 Author: Alexander Rosales
-Company: RES
 August 8, 2022
 
 For use in Tableau
